@@ -1,0 +1,2 @@
+# About me
+Hi, I'm YY from China. I created this blog to share my [daily life](/diary/) and the [projects](/projects) I'm currently working on. Since I'm learning English, I write all my posts in English. Thanks for stopping by!
