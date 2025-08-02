@@ -13,6 +13,7 @@ export default defineConfig({
     sidebar: {
       '/diary/': generateSidebar('diary'),
       '/docs/vitepress': generateSidebar('docs/vitepress', 'docs/'),
+      '/projects/det120': generateSidebar('projects/det120', 'projects/'),
     },
   },
   ignoreDeadLinks: true

@@ -8,8 +8,8 @@ features:
     title: Diary
     link: /diary
   - icon: 🚀
-    title: Project
-    link: /project
+    title: Projects
+    link: /projects
 ---
 ---
 
