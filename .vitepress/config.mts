@@ -15,8 +15,10 @@ export default defineConfig({
       '/docs/vitepress': generateSidebar('docs/vitepress', 'docs/'),
       '/projects/det120': generateSidebar('projects/det120', 'projects/'),
     },
+    search: {
+      provider: 'local'
+    }
   },
-  ignoreDeadLinks: true
+  ignoreDeadLinks: true,
+  lastUpdated: true,
 })
-
-  ignoreDeadLinks: true
