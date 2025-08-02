@@ -11,7 +11,8 @@ export default defineConfig({
       {text: 'About', link: '/about'}
     ],
     sidebar: {
-      '/diary/': generateSidebar('diary')
+      '/diary/': generateSidebar('diary'),
+      '/docs/vitepress': generateSidebar('docs/vitepress', 'docs/'),
     },
   },
   ignoreDeadLinks: true
