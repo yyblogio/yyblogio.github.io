@@ -15,3 +15,4 @@ features:
 
 
 - [VitePress Guides](/docs/vitepress)
+- [Sleep](/docs/sleep)
